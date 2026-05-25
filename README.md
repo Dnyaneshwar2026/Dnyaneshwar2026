@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar</h1>
-<h3 align="center">Java Developer | Flutter Learner | Firebase Enthusiast 🚀</h3>
+<h3 align="center">Java Developer | Spring Boot | AI/ML Enthusiast | SQL Developer 🚀</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Java+Developer;Flutter+Developer;Firebase+Learner;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
